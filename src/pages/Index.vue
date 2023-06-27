@@ -12,7 +12,7 @@
 
     <p class="home-links">
       <a href="https://gridsome.org/docs" target="_blank" rel="noopener">Order Yours</a>
-      <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">Rules</a>
+      <a href="~/pages/Rules.vue" target="_blank" rel="noopener">Rules</a>
     </p>
 
   </Layout>
