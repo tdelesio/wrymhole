@@ -2,7 +2,7 @@
   <Layout>
     
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="card_back.png" width="135" />
+    <g-image alt="Example image" src="~/assets/card_back.png" width="135" />
     
     <h1>Wrym Hole</h1>
    
